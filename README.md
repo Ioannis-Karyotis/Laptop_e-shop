@@ -3,7 +3,6 @@ A Laptop e-shop . The project has not finished  yet. It is in a ongoing state .
 
 ----QUICK START-----
 
-
 1)In XAMPP home folder download and paste phpmyadmin folder from https://www.phpmyadmin.net/downloads/
 2)In XAMPP/htdocs forlder paste the project
 3)Open XAMPP
